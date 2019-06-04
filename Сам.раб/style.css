@@ -1,0 +1,21 @@
+.white{
+	background: white;
+	height: 300px;
+	display: flex;
+}
+.margin{
+	margin-left: 100px;
+	margin-top: 150px;
+}
+.block{
+	margin-top: 150px;
+}
+.div{
+	text-align: center;
+}
+h2{
+	color: darkgrey;
+}
+h1{
+	color: darkorange;
+}
